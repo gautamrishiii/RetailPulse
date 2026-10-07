@@ -1,0 +1,15 @@
+# Large datasets
+TenMillionData/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment/secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
